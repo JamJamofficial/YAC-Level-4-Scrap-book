@@ -4,4 +4,5 @@ Feel free to point out any errors and to take ideas from this repository.
         I will be updating this frequently! 💪
 
 Make sure to follow me on 
-    [IG](instagram.com/jamjam_officiale).
+    <a href="https://www.instagram.com/jamjam_officiale">IG</a>
+
