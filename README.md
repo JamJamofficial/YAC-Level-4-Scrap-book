@@ -1,4 +1,4 @@
-## Scrap book for YAC level 4 Python Course.
+## Scrap book for YAC level 4 Python and Data-Analysis Course.
 
 Feel free to point out any errors and to take ideas from this repository.
         I will be updating this frequently! 💪
