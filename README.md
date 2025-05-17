@@ -7,6 +7,6 @@ This is a scrap book for the Certified YAC level 4 Python and Data-Analysis Cour
 
 ---
 
-### 🔗 Connect with Me  
+### 🔗 Contact Me  
 📸 <a href="https://www.linktr.ee/jamjam_official">Socials</a>
 📧 jamjamofficial@email.com
